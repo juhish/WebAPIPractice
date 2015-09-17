@@ -1,0 +1,9 @@
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\WebLogicToConnectDatabaseTable\obj\Debug\WebLogicToConnectDatabaseTable.csprojResolveAssemblyReference.cache
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\WebLogicToConnectDatabaseTable\bin\Debug\WebLogicToConnectDatabaseTable.dll
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\WebLogicToConnectDatabaseTable\bin\Debug\WebLogicToConnectDatabaseTable.pdb
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\WebLogicToConnectDatabaseTable\bin\Debug\EmployeeModelProject_Web.cs.dll
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\WebLogicToConnectDatabaseTable\bin\Debug\EmployeeModelProject_Web.cs.pdb
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\WebLogicToConnectDatabaseTable\obj\Debug\WebLogicToConnectDatabaseTable.dll
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\WebLogicToConnectDatabaseTable\obj\Debug\WebLogicToConnectDatabaseTable.pdb
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\WebLogicToConnectDatabaseTable\bin\Debug\Newtonsoft.Json.dll
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\WebLogicToConnectDatabaseTable\bin\Debug\Newtonsoft.Json.xml

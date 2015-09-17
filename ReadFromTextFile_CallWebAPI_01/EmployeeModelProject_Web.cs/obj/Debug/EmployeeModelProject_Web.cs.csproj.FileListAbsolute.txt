@@ -1,0 +1,7 @@
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\EmployeeModelProject_Web.cs\bin\Debug\EmployeeModelProject_Web.cs.dll
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\EmployeeModelProject_Web.cs\bin\Debug\EmployeeModelProject_Web.cs.pdb
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\EmployeeModelProject_Web.cs\obj\Debug\EmployeeModelProject_Web.cs.csprojResolveAssemblyReference.cache
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\EmployeeModelProject_Web.cs\obj\Debug\EmployeeModelProject_Web.cs.dll
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\EmployeeModelProject_Web.cs\obj\Debug\EmployeeModelProject_Web.cs.pdb
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\EmployeeModelProject_Web.cs\bin\Debug\Newtonsoft.Json.dll
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\EmployeeModelProject_Web.cs\bin\Debug\Newtonsoft.Json.xml

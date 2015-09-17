@@ -1,0 +1,8 @@
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\ReadFromTextFile_CallWebAPI_01\bin\Debug\ReadFromTextFile_CallWebAPI_01.exe.config
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\ReadFromTextFile_CallWebAPI_01\bin\Debug\ReadFromTextFile_CallWebAPI_01.exe
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\ReadFromTextFile_CallWebAPI_01\bin\Debug\ReadFromTextFile_CallWebAPI_01.pdb
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\ReadFromTextFile_CallWebAPI_01\obj\Debug\ReadFromTextFile_CallWebAPI_01.exe
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\ReadFromTextFile_CallWebAPI_01\obj\Debug\ReadFromTextFile_CallWebAPI_01.pdb
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\ReadFromTextFile_CallWebAPI_01\bin\Debug\Newtonsoft.Json.dll
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\ReadFromTextFile_CallWebAPI_01\bin\Debug\Newtonsoft.Json.xml
+D:\JUHI\DotNet\Git Repo\ReadFromTextFile_CallWebAPI_01\ReadFromTextFile_CallWebAPI_01\obj\Debug\ReadFromTextFile_CallWebAPI_01.csprojResolveAssemblyReference.cache
